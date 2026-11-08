@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" fill="none" role="img" aria-labelledby="title">
+<title id="title">Management Dashboard repository</title>
+<defs></defs>
+<rect x="0.5" y="0.5" width="899" height="119" rx="15" fill="#0D1928" stroke="#293E55"/>
+<path d="M15 1H200" stroke="#93C5FD" stroke-opacity="0.7"/>
+<rect x="20" y="28" width="64" height="64" rx="17" fill="#93C5FD" fill-opacity="0.07"/><rect x="33" y="45" width="38" height="30" rx="4" stroke="#93C5FD" stroke-width="2.5"/><path d="M33 54H71M45 62L41 66L45 70M59 62L63 66L59 70" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="'Segoe UI', Arial, sans-serif"><text x="109" y="40" fill="#93C5FD" font-family="Consolas, monospace" font-size="13" letter-spacing="2">REACT INTERFACE</text><text x="107" y="83" fill="#F0F6FC" font-size="35" font-weight="600" letter-spacing="-0.8">Management Dashboard</text><text x="849" y="83" text-anchor="end" fill="#21364A" font-family="Consolas, monospace" font-size="62" font-weight="700">02</text></g>
+<path d="M849 31H867V49M867 31L849 49" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

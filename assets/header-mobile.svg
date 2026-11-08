@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="370" viewBox="0 0 640 370" fill="none" role="img" aria-labelledby="title">
+<title id="title">Đoàn Công Tài — Software Developer, Ho Chi Minh City, Vietnam</title>
+<defs>
+<linearGradient id="canvas" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse"><stop stop-color="#0A1624"/><stop offset="1" stop-color="#101B32"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity="0.15"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge"><stop stop-color="#34D399"/><stop offset="0.6" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+</defs>
+
+<rect x="1" y="1" width="638" height="368" rx="24" fill="url(#canvas)" stroke="#203449"/>
+<ellipse cx="550" cy="150" rx="300" ry="250" fill="url(#glow)"/>
+<path d="M42 1H598" stroke="url(#edge)" stroke-width="2"/>
+<g font-family="'Segoe UI', Arial, sans-serif">
+<text x="40" y="67" fill="#7DE4D8" font-family="Consolas, monospace" font-size="22" letter-spacing="2">@tai130203</text>
+<text x="36" y="165" fill="#F0F6FC" font-size="70" font-weight="700" letter-spacing="-2.5">Đoàn Công Tài<tspan fill="#2DD4BF">.</tspan></text>
+<text x="40" y="220" fill="#B6C8DD" font-size="30">Software Developer</text>
+<path d="M40 260H88" stroke="#2DD4BF" stroke-width="3"/>
+<text x="40" y="309" fill="#8299B2" font-size="25">Ho Chi Minh City, Vietnam</text>
+<text x="569" y="315" text-anchor="end" fill="#2DD4BF" font-family="Consolas, monospace" font-size="30">&lt;/&gt;</text>
+</g>
+
+</svg>
